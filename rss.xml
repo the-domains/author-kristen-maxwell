@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Author Kristen Maxwell]]></title>
         <description><![CDATA[Author Kristen Maxwell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/author-kristen-maxwell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 23:39:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 23:39:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/author-kristen-maxwell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2ead5b-6443-470c-bab9-9521a0ac0cb1.jpg">]]></description>
+            <link>https://thegrid.ai/author-kristen-maxwell/learning-something-new-is-the-gift-not-success-others-sta/index.html</link>
+            <guid isPermaLink="false">f6036774-a6b8-40d2-a772-b4b983a2e139</guid>
+            <pubDate>Fri, 27 May 2016 23:39:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1acbecc7-efed-4c35-aaac-fdc3c99c4b30.jpg">]]></description>
-            <link>undefinedtechnology-call-it-disruptive-call-it-magical-call-it-the/index.html</link>
+            <link>https://thegrid.ai/author-kristen-maxwell/technology-call-it-disruptive-call-it-magical-call-it-the/index.html</link>
             <guid isPermaLink="false">c213cc93-9b20-4402-b822-d2ce5a062512</guid>
             <pubDate>Fri, 27 May 2016 23:39:51 GMT</pubDate>
         </item>
