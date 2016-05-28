@@ -1,6 +1,6 @@
 name: Author Kristen Maxwell
 favicon: null
-layout_spectrum: 0.24387
+layout_spectrum: 0.49928
 typography_spectrum: 0.2243822356685996
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.735870857257396
+  brandStrength: 1
   lightness: 0.8043457344174385
   saturation: 0.39039968349970877
   rhythmicContrast: 0.06330011272802949
